@@ -1,0 +1,6 @@
+{
+  "name": "SocialIQ - Corporate & Consumer Intelligence",
+  "description": "AI-powered social intelligence platform for corporate telemetry, sentiment analysis, consumer trends, and network influence mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
